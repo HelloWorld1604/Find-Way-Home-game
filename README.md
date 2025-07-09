@@ -1,6 +1,6 @@
 # Find-Way-Home-game
 
-This is a little game project have been imported by pygame and pyttsx3.
+This is a little game project have been imported by **pygame** and **pyttsx3**.
 Please install start 2 lines code below in your **Terminal/CMD** if your environment have none of them:
 * `pip install pygame`
 * `pip install pyttsx3`
